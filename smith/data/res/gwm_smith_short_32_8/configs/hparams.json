@@ -1,0 +1,1 @@
+{"dual_encoder_config_file": "/mnt/e/test/Self-Explain/SMITH/smith/data/config/dual_encoder_config.smith_short.32.8.pbtxt", "output_dir": "/mnt/e/test/Self-Explain/SMITH/smith/data/res/gwm_smith_short_32_8/", "schedule": "train", "debugging": false, "learning_rate": 5e-05, "num_warmup_steps": 1000, "num_train_steps": 10000, "num_tpu_cores": 8}
